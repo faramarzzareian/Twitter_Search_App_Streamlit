@@ -21,6 +21,7 @@ To run the app, navigate to the directory containing the script in your terminal
        streamlit run app.py
 
 This will start the Streamlit app, and you should be able to access it in your web browser at:
+
        http://localhost:8501/.
 
 To use the app, enter one or more Twitter usernames (separated by commas) and a keyword to search for all tweets containing the keyword. Click the "Search" button to perform the search.
